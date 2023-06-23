@@ -245,3 +245,9 @@
 #
 # Main()
 
+data = open(r"text.txt", "r", encoding="UTF-8")
+text = data.read()
+data.close()
+delete = '.,!?;:-[]{}()='
+newText = [i.rstrip(delete).lower() for i in text.split() if len(i.rstrip(delete)) > 1]
+print(*sorted(set(newText), key=newText.count, reverse=True)[:10], sep='\n')
