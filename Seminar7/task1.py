@@ -1,6 +1,8 @@
 # Задача 1
-from os import chdir
-from pathlib import Path
+
+# from os import chdir
+# from pathlib import Path
+
 # Напишите функцию, которая заполняет файл
 # (добавляет в конец) случайными парами чисел.
 # Первое число int, второе - float разделены вертикальной чертой.
