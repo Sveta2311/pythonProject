@@ -1,7 +1,7 @@
 # Задача 1
 
-# from os import chdir
-# from pathlib import Path
+from os import chdir
+from pathlib import Path
 
 # Напишите функцию, которая заполняет файл
 # (добавляет в конец) случайными парами чисел.
@@ -37,10 +37,10 @@
 
 # from random import randint, choice
 #
-#
 # DIC1 = "AIEYUO"
 # DIC2 = "QWRTPSDFHGKL"
 # RAND = 15
+#
 #
 # def names():
 #     with open("filik.txt", "a", encoding="utf-8") as f:
@@ -51,6 +51,7 @@
 #                 if len(name) >= 7: break
 #                 name += choice(DIC2)
 #             f.write(f'{name} \n')
+#
 #
 # names()
 
@@ -68,8 +69,8 @@
 # При достижении конца более короткого файла,
 # возвращайтесь в его начало.
 
-# from random import randint, choice
-#
+from random import randint, choice
+
 # DIC1 = "AIEYUO"
 # DIC2 = "QWRTPSDFHGKL"
 #
@@ -87,11 +88,13 @@
 #                 continue
 #             print(a)
 #             mult_ = int(a[0]) * float(a[1])
+#             res_l = ''
 #             if mult_ < 0:
 #                 res_l = liter.readline().replace(' \n', '')
 #                 r.write(f'{res_l.lower(), abs(mult_)} \n')
 #             elif mult_ >= 0:
 #                 r.write(f'{res_l.upper(), round(mult_)} \n')
+#
 #
 # mult()
 
