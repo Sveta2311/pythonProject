@@ -1,0 +1,164 @@
+{
+    "1": {
+        "name": "task8.cpython-310.pyc",
+        "parent": "__pycache__",
+        "type": "file",
+        "size": "2405 b"
+    },
+    "2": {
+        "name": "access_file.pickle",
+        "parent": ".",
+        "type": "file",
+        "size": "35 b"
+    },
+    "3": {
+        "name": "dir_info.csv",
+        "parent": ".",
+        "type": "file",
+        "size": "858 b"
+    },
+    "4": {
+        "name": "dir_info.json",
+        "parent": ".",
+        "type": "file",
+        "size": "2905 b"
+    },
+    "5": {
+        "name": "dir_info.pickle",
+        "parent": ".",
+        "type": "file",
+        "size": "892 b"
+    },
+    "6": {
+        "name": "dir_info_from_pack.csv",
+        "parent": ".",
+        "type": "file",
+        "size": "954 b"
+    },
+    "7": {
+        "name": "dir_info_from_pack.json",
+        "parent": ".",
+        "type": "file",
+        "size": "3056 b"
+    },
+    "8": {
+        "name": "dir_info_from_pack.pickle",
+        "parent": ".",
+        "type": "file",
+        "size": "1024 b"
+    },
+    "9": {
+        "name": "json_in.json",
+        "parent": ".",
+        "type": "file",
+        "size": "112 b"
+    },
+    "10": {
+        "name": "json_in.pickle",
+        "parent": ".",
+        "type": "file",
+        "size": "79 b"
+    },
+    "11": {
+        "name": "main.py",
+        "parent": ".",
+        "type": "file",
+        "size": "535 b"
+    },
+    "12": {
+        "name": "new_user.csv",
+        "parent": ".",
+        "type": "file",
+        "size": "62 b"
+    },
+    "13": {
+        "name": "new_user.json",
+        "parent": ".",
+        "type": "file",
+        "size": "75 b"
+    },
+    "14": {
+        "name": "new_user.pickle",
+        "parent": ".",
+        "type": "file",
+        "size": "76 b"
+    },
+    "15": {
+        "name": "out.csv",
+        "parent": ".",
+        "type": "file",
+        "size": "26 b"
+    },
+    "16": {
+        "name": "primerscsv.py",
+        "parent": ".",
+        "type": "file",
+        "size": "700 b"
+    },
+    "17": {
+        "name": "task1.py",
+        "parent": ".",
+        "type": "file",
+        "size": "1051 b"
+    },
+    "18": {
+        "name": "task2.py",
+        "parent": ".",
+        "type": "file",
+        "size": "2334 b"
+    },
+    "19": {
+        "name": "task3.py",
+        "parent": ".",
+        "type": "file",
+        "size": "948 b"
+    },
+    "20": {
+        "name": "task4.py",
+        "parent": ".",
+        "type": "file",
+        "size": "1550 b"
+    },
+    "21": {
+        "name": "task5.py",
+        "parent": ".",
+        "type": "file",
+        "size": "800 b"
+    },
+    "22": {
+        "name": "task6.py",
+        "parent": ".",
+        "type": "file",
+        "size": "1211 b"
+    },
+    "23": {
+        "name": "task7.py",
+        "parent": ".",
+        "type": "file",
+        "size": "847 b"
+    },
+    "24": {
+        "name": "task8.py",
+        "parent": ".",
+        "type": "file",
+        "size": "2872 b"
+    },
+    "25": {
+        "name": "test",
+        "parent": ".",
+        "type": "folder",
+        "size": "63 b"
+    },
+    "26": {
+        "name": "unititled.txt",
+        "parent": ".",
+        "type": "file",
+        "size": "55 b"
+    },
+    "27": {
+        "name": "__pycache__",
+        "parent": ".",
+        "type": "folder",
+        "size": "2405 b"
+    }
+}
