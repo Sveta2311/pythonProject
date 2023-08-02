@@ -43,58 +43,58 @@
 # ○ ошибка уровня,
 # ○ ошибка доступа.
 
-import json
-
-
-class Iscl(Exception):
-    pass
-class Dochiscl(Iscl):
-    pass
-class Dochiscl1(Iscl):
-    pass
-
-class Robot:
-    def __init__(self, name, model):
-        self.name = name
-        self.model = model
-
-
-with open("new_user.json", "r", encoding="utf-8") as nn:
-    nn = json.load(nn)
-    print(nn)
-
-    list = []
-
-    for i in nn:
-        print(nn[i])
-
-        rbt = Robot(i, nn[i])
-        list.append(rbt)
-
-    for r in list:
-        print(r.name, r.model)
-
-
-    while True:
-
-        p1 = int(input('Введите одно число: '))
-        p2 = int(input('Введите второе число: '))
-
-        try:
-
-            list[p1]
-            list[p2]
-            break
-        except:
-            print("Ввели не то число!")
-
-    a = list[p1]
-    b = list[p2]
-
-    if a.model > b.model:
-        print(a.name)
-    else:
-        print(b.name)
+# import json
+#
+#
+# class Iscl(Exception):
+#     pass
+# class Dochiscl(Iscl):
+#     pass
+# class Dochiscl1(Iscl):
+#     pass
+#
+# class Robot:
+#     def __init__(self, name, model):
+#         self.name = name
+#         self.model = model
+#
+#
+# with open("new_user.json", "r", encoding="utf-8") as nn:
+#     nn = json.load(nn)
+#     print(nn)
+#
+#     list = []
+#
+#     for i in nn:
+#         print(nn[i])
+#
+#         rbt = Robot(i, nn[i])
+#         list.append(rbt)
+#
+#     for r in list:
+#         print(r.name, r.model)
+#
+#
+#     while True:
+#
+#         p1 = int(input('Введите одно число: '))
+#         p2 = int(input('Введите второе число: '))
+#
+#         try:
+#
+#             list[p1]
+#             list[p2]
+#             break
+#         except:
+#             print("Ввели не то число!")
+#
+#     a = list[p1]
+#     b = list[p2]
+#
+#     if a.model > b.model:
+#         print(a.name)
+#     else:
+#         print(b.name)
 
 # while True:
 #     try:
