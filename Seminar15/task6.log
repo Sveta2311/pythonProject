@@ -1,0 +1,3 @@
+2023-08-05 18:31:46,432 - INFO: FSObject(name='test', ext='txt', is_dir=False, parent='hw15_utils')
+2023-08-05 18:31:46,432 - INFO: FSObject(name='test2', ext='csv', is_dir=False, parent='hw15_utils')
+2023-08-05 18:31:46,432 - INFO: FSObject(name='test3', ext='txt', is_dir=False, parent='hw15_utils')

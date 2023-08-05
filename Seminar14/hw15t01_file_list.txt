@@ -1,0 +1,1 @@
+2023-08-05 17:10:26,037 - INFO: FSObject(name='oshibka', ext='log', is_dir=False, parent='hw15_utils')
